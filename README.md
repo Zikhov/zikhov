@@ -2,7 +2,6 @@
 
 Gabin Agbodan is an enlisted sailor in the United States Navy. He is enrolled in the GIT program with a focus in UX at Arizona States University. After graduation, he plans to enroll at Western Governor University to obtain his master degree in Cybersecurity. 
 He enjoy his off time partaking in several activities including weightlifting, watching Japanese Anime, coaching soccer and spending time with his two sons.
-![image](https://github.com/Zikhov/zikhov/assets/170519040/b822e470-9350-4e80-b8f5-96f8a6c2f512)
    
 <!--
 **Zikhov/zikhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
