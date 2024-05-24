@@ -1,6 +1,7 @@
 ## Hello! 
 
 Gabin Agbodan is an enlisted sailor in the United States Navy. He is enrolled in the GIT program with a focus in UX at Arizona States University. After graduation, he plans to enroll at Western Governor University to obtain his master degree in Cybersecurity. 
+
 He enjoy his off time partaking in several activities including weightlifting, watching Japanese Anime, coaching soccer and spending time with his two sons.
    
 <!--
